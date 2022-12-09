@@ -1,0 +1,14 @@
+.small-b {
+    max-width: 1400px;
+    margin: auto;
+  }
+  .small-b-img {
+    width: 500px;
+    
+  }
+  .small-b-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 400px;
+  }
